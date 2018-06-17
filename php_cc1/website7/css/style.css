@@ -1,0 +1,27 @@
+.card-footer p{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    
+   
+}
+
+#delete-form{
+    display: inline;
+
+}
+
+.edit-button-alignment{
+    text-align: right;
+}
+
+@media screen and (max-width: 768px){
+    .edit-button-alignment{
+        text-align: center;
+    }
+}
+
+
+
+
+
+
