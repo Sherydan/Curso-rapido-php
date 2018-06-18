@@ -34,6 +34,7 @@
 ?>
 
 <?php require_once('inc/header.php'); ?>
+
 <?php require_once('inc/nav.php'); ?>
 
 <div class="container">

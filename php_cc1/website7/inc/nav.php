@@ -10,7 +10,7 @@
             <a class="nav-link" href="<?php echo ROOT_URL; ?>">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="add_post.php">Add Post</a>
+            <a class="nav-link" href="add_post.php">Añadir Post</a>
           </li>
           
           <li class="nav-item dropdown">
